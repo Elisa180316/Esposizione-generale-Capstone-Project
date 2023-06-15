@@ -1,4 +1,4 @@
-Esposizione generale Capstone Project per la realizzazione di un sito web per Agenzia Immobiliare. 
+Esposizione generale Capstone Project per la realizzazione di un sito web per compravendita immobili. 
 
 Backend:
 - Creazione di server con MongoDB, con utilizzo di Express.js Node.js, Mongoose, Nodemon, CORS e Dotenv;
